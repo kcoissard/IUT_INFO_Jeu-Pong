@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=handler
+comment0.target=void\ addHandler(CollisionHandler)
+comment1.params=handler
+comment1.target=void\ removeHandler(CollisionHandler)
+comment2.params=obstacle
+comment2.target=void\ addObstacle(CollisionObstacle)
+comment3.params=obstacle
+comment3.target=void\ removeObstacle(CollisionObstacle)
+comment4.params=
+comment4.target=void\ testCollision()
+comment5.params=obstacle
+comment5.target=void\ testCollisionWith(CollisionObstacle)
+numComments=6

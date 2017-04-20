@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment1.params=radius
+comment1.target=Ball(double)
+comment10.params=
+comment10.target=void\ testCollision()
+comment11.params=obstacle
+comment11.target=void\ testCollisionWith(CollisionObstacle)
+comment2.params=vector
+comment2.target=void\ move(Vector2D)
+comment3.params=x\ y
+comment3.target=void\ setPosition(double,\ double)
+comment4.params=
+comment4.target=Vector2D\ getPosition()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment6.params=handler
+comment6.target=void\ addHandler(CollisionHandler)
+comment7.params=handler
+comment7.target=void\ removeHandler(CollisionHandler)
+comment8.params=obstacle
+comment8.target=void\ addObstacle(CollisionObstacle)
+comment9.params=obstacle
+comment9.target=void\ removeObstacle(CollisionObstacle)
+numComments=12

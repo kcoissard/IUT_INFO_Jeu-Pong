@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=collisionNormal\ obstacle
+comment0.target=void\ onCollision(Vector2D,\ CollisionObstacle)
+numComments=1

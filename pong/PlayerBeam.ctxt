@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlayerBeam()
+comment1.params=height\ width
+comment1.target=PlayerBeam(double,\ double)
+comment2.params=handler
+comment2.target=void\ addHandler(CollisionHandler)
+comment3.params=handler
+comment3.target=void\ removeHandler(CollisionHandler)
+comment4.params=obstacle
+comment4.target=void\ addObstacle(CollisionObstacle)
+comment5.params=obstacle
+comment5.target=void\ removeObstacle(CollisionObstacle)
+comment6.params=
+comment6.target=void\ testCollision()
+comment7.params=obstacle
+comment7.target=void\ testCollisionWith(CollisionObstacle)
+numComments=8

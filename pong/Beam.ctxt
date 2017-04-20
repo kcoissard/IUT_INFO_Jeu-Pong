@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Beam()
+comment1.params=
+comment1.target=double\ getHeight()
+comment2.params=
+comment2.target=Vector2D\ getPosition()
+comment3.params=height\ width
+comment3.target=Beam(double,\ double)
+comment4.params=x\ y
+comment4.target=void\ setPosition(double,\ double)
+comment5.params=vector
+comment5.target=void\ move(Vector2D)
+comment6.params=point
+comment6.target=boolean\ isInside(Vector2D)
+comment7.params=object
+comment7.target=Vector2D\ getCollisionNormalWith(CollisionObject)
+comment8.params=g
+comment8.target=void\ draw(java.awt.Graphics)
+numComments=9

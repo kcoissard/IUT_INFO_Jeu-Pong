@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Terrain()
+comment1.params=d
+comment1.target=void\ addDrawable(Drawable)
+comment10.params=g
+comment10.target=void\ paintComponent(java.awt.Graphics)
+comment11.params=e
+comment11.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=d
+comment2.target=void\ removeDrawable(Drawable)
+comment3.params=a
+comment3.target=void\ addAnimator(Animator)
+comment4.params=a
+comment4.target=void\ removeAnimator(Animator)
+comment5.params=o
+comment5.target=void\ addCollisionObject(CollisionObject)
+comment6.params=o
+comment6.target=void\ removeCollisionObject(CollisionObject)
+comment7.params=
+comment7.target=void\ initTimer()
+comment8.params=
+comment8.target=javax.swing.Timer\ getTimer()
+comment9.params=g
+comment9.target=void\ doDrawing(java.awt.Graphics)
+numComments=12

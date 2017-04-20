@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=object
+comment0.target=Vector2D\ getCollisionNormalWith(CollisionObject)
+numComments=1

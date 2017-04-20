@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ball\ speed\ initialMovement\ player1Beam\ player2Beam\ player1Obstacle\ player2Obstacle
+comment0.target=BallAnimator(Ball,\ double,\ Vector2D,\ Beam,\ Beam,\ Beam,\ Beam)
+comment1.params=
+comment1.target=int\ getPlayer1Score()
+comment2.params=
+comment2.target=int\ getPlayer2Score()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=normal\ obstacle
+comment4.target=void\ onCollision(Vector2D,\ CollisionObstacle)
+numComments=5
